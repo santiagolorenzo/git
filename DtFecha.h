@@ -19,7 +19,7 @@ class DtFecha {
 		void setDia(int dia);
 		void setMes(int mes);
 		void setAnio(int anio);
-		
+		void setFecha(int dia, int mes, int anio);
 		
 		~DtFecha();
 
